@@ -1,0 +1,28 @@
+body{
+	background-color:pink;
+}
+div {
+    border: ridge;
+    padding: 50px 20px;
+    outline-style: double;
+    outline-color: green;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+h1{
+	color: red;
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+}
+p{
+	text-indent: 2cm;
+	text-transform: uppercase;
+	white-space: pre-wrap;
+	text-shadow: 8px 8px 9px blue;
+	font-family: georgia; 
+}
+}

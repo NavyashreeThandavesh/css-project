@@ -1,0 +1,36 @@
+body{
+	background-color: #ff6347;
+}
+ul.a {
+    
+}
+.container img {
+    width: 50px;
+    height: 50px;
+}
+
+/* resize images */
+.container img {
+    width: 50%;
+    height: auto;
+}
+.container  {
+    width: 50px;
+    height: 50px;
+}
+.container  {
+    width: 50px;
+    height: 50px;
+}
+
+ul.b {
+    list-style-type: square;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+}
